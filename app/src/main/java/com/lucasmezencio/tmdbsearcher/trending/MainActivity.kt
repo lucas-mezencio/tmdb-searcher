@@ -1,8 +1,8 @@
-package com.example.tmdbsearcher.trending
+package com.lucasmezencio.tmdbsearcher.trending
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.tmdbsearcher.R
+import com.lucasmezencio.tmdbsearcher.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

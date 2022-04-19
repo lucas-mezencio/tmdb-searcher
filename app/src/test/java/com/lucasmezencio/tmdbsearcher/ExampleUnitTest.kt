@@ -1,4 +1,4 @@
-package com.example.tmdbsearcher
+package com.lucasmezencio.tmdbsearcher
 
 import org.junit.Test
 
