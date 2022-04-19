@@ -5,4 +5,5 @@
     <string name="card_movie_date">18/04/2022</string>
     <string name="movie_card_score">8.2</string>
     <string name="movie_card_lang">en</string>
+    <string name="star_score_description">Estrela que representa o score do filme</string>
 </resources>
