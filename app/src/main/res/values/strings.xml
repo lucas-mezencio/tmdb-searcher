@@ -6,4 +6,7 @@
     <string name="movie_card_score">8.2</string>
     <string name="movie_card_lang">en</string>
     <string name="star_score_description">Estrela que representa o score do filme</string>
+    <string name="toolbar_imdb_logo_desc">TMDB logo</string>
+    <string name="toolbar_searcher_logo_desc">TMDB Searcher Logo</string>
+    <string name="activity_main_title">Trending</string>
 </resources>

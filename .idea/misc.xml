@@ -5,13 +5,16 @@
       <map>
         <entry key="app/src/main/res/drawable/card_background.xml" value="0.321" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.207" />
+        <entry key="app/src/main/res/drawable/ic_logo_searcher.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable/ic_logo_tmdb.xml" value="0.2275" />
         <entry key="app/src/main/res/drawable/ic_star_rate.xml" value="0.1565" />
+        <entry key="app/src/main/res/drawable/title_backgroud_gradient.xml" value="0.2275" />
         <entry key="app/src/main/res/font/roboto.xml" value="0.29008341056533826" />
         <entry key="app/src/main/res/font/roboto_bold.xml" value="0.29008341056533826" />
         <entry key="app/src/main/res/font/roboto_light.xml" value="0.29008341056533826" />
         <entry key="app/src/main/res/layout-land/movie_card_item.xml" value="0.29717813051146386" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/movie_card_item.xml" value="0.37553956834532376" />
+        <entry key="app/src/main/res/layout/movie_card_item.xml" value="0.33" />
       </map>
     </option>
   </component>
