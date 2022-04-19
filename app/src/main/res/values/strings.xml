@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TMDb Searcher</string>
+    <string name="movie_poster_description">Movie poster</string>
+    <string name="card_movie_title">Título lorem ipsim</string>
+    <string name="card_movie_date">18/04/2022</string>
+    <string name="movie_card_score">8.2</string>
+    <string name="movie_card_lang">en</string>
 </resources>
