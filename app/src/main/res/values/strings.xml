@@ -9,4 +9,5 @@
     <string name="toolbar_imdb_logo_desc">TMDB logo</string>
     <string name="toolbar_searcher_logo_desc">TMDB Searcher Logo</string>
     <string name="activity_main_title">Trending</string>
+    <string name="trending_movie_string">Filmes</string>
 </resources>
